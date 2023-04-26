@@ -14,3 +14,4 @@ class Usuario:
                 print(f"[X] {tarea.obtenerNombre()} está lista" )
             else:
                 print(f"[ ] {tarea.obtenerNombre()} no está lista" )
+        
